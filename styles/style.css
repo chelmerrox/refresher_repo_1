@@ -30,7 +30,10 @@ nav div i .fa-video {
   color: #333333;
 }
 
-
+/* Devices up to 320px */
+@media only screen and (max-width: 320px){
+  
+}
 
 /* Small devices (sm) up to  535px */
 @media only screen and (max-width: 535px) {
@@ -39,6 +42,11 @@ nav div i .fa-video {
     width: 10px;
     height: 10px;
   }
+}
+
+/* 767px, md, lg devices */
+@media only screen and (max-width: 767px) {
+  
 }
 
 /* 768px, md, lg devices */
