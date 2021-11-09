@@ -6,23 +6,12 @@ HTML/CSS Refresher.
 
 ### Top of web page
 
-![screenshot](images/top_preview.PNG)
-
-
-### Middle of web page
-
-![screenshot](images/middle_preview.PNG)
-
-
-### Bottom of web page
-
-![screenshot](images/bottom_preview.PNG)
+![screenshot](images/preview.png)
 
 ## Built With
 
 - HTML5
 - CSS3
-- <a href="https://materializecss.com/icons.html">Google icons</a>
 - SVG Icons
 - Bootstrap
 - Sass
@@ -30,7 +19,7 @@ HTML/CSS Refresher.
 
 ## Live Demo
 
-<a href="https://raw.githack.com/chelmerrox/refresher-repo-1/master/index.html">Live Demo</a>
+<a href="https://raw.githack.com/chelmerrox/refresher_repo_1/project-draft/index.html">Live Demo</a>
 
 ## Getting Started
 
